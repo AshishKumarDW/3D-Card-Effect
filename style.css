@@ -85,7 +85,7 @@ body{
     color: #585858
 }
 
-button.active{
+button:focus{
     background: #585858;
     color: white;
 }
